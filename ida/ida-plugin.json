@@ -1,0 +1,20 @@
+{
+    "IDAMetadataDescriptorVersion": 1,
+    "plugin": {
+        "name": "subway-surfers",
+        "version": "0.1.0",
+        "entryPoint": "subway_surfers.py",
+        "description": "Plays Subway Surfers gameplay in an IDA tab so you can focus on the pwn chall",
+        "license": "MIT",
+        "authors": [
+            {"name": "alphanin9", "email": "47785076+alphanin9@users.noreply.github.com"}
+        ],
+        "urls": {
+            "repository": "https://github.com/alphanin9/ida-subway-surfers-meme"
+        },
+        "idaVersions": ">=9.2",
+        "platforms": ["windows-x86_64", "linux-x86_64", "macos-x86_64", "macos-aarch64"],
+        "categories": ["ui-ux-and-visualization"],
+        "keywords": ["brainrot", "subway-surfers"]
+    }
+}
